@@ -12,3 +12,6 @@ _ReSharper*
 *.suo
 *.user
 *.sln.docstates
+
+# NuGet packages
+*.nupkg
