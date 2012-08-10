@@ -26,7 +26,7 @@ If you prefer configuration based config of WCF:
   <extensions>
     <behaviorExtensions>
       <add name="upnpPortMapping" 
-           type="UpnpStaticPortMappingBehavior.UpnpStaticPortMappingBehavior, UpnpStaticPortMappingBehavior, Version=1.0.0.0, Culture=neutral"/>
+           type="UpnpStaticPortMapping.UpnpStaticPortMappingBehavior, UpnpStaticPortMapping, Version=1.0.0.0, Culture=neutral"/>
     </behaviorExtensions>
   </extensions>
   
