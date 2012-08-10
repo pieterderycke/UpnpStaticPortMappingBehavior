@@ -40,7 +40,6 @@ If you prefer configuration based config of WCF:
   </behaviors>
   
   <!-- The configuration of your services and client endpoints ... -->
-
 </system.serviceModel>
 ```
 
