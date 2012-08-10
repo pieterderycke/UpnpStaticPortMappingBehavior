@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UpnpStaticPortMappingBehavior")]
-[assembly: AssemblyDescription("A WCF service behavior that allows to map an incomming port on the router to the port used by the WCF service. It can be used by by WCF services hosted behind a NAT router supporting UPNP.$$")]
+[assembly: AssemblyDescription("A WCF service behavior that allows to map an incomming port on the router to the port used by the WCF service. It can be used by any WCF services hosted behind a NAT router supporting UPNP.$$")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Pieter De Rycke")]
 [assembly: AssemblyProduct("UpnpStaticPortMappingBehavior")]

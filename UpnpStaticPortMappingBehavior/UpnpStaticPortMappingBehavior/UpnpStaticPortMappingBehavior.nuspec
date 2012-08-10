@@ -8,7 +8,7 @@
     <licenseUrl>https://github.com/pieterderycke/UpnpStaticPortMappingBehavior/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/pieterderycke/UpnpStaticPortMappingBehavior</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A WCF service behavior that allows to map an incomming port on the router to the port used by the WCF service. It can be used by by WCF services hosted behind a NAT router supporting UPNP.</description>
+    <description>A WCF service behavior that allows to map an incomming port on the router to the port used by the WCF service. It can be used by any WCF services hosted behind a NAT router supporting UPNP.</description>
     <copyright>Copyright 2012</copyright>
   </metadata>
 </package>

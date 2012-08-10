@@ -13,8 +13,8 @@ using NATUPNPLib;
 namespace UpnpStaticPortMappingBehavior
 {
     /// <summary>
-    /// A WCF service port that allows to map a router incomming port to the WCF service port.
-    /// This service behavior can be used for WCF services hosted behind a NAT router supporting UPNP.
+    /// A WCF service behavior that allows to map an incomming port on the router to the port used by the WCF service.
+    /// It can be used by any WCF services hosted behind a NAT router supporting UPNP.
     /// 
     /// This behavior can be applied to a WCF service as attribute or by using web.config or app.config WCF
     /// configuration.
