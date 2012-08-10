@@ -48,4 +48,3 @@ Don't forget to configure the Windows firewall or any other firewall installed o
 
 ##NuGet
 This library is available on NuGet: https://nuget.org/packages/UpnpStaticPortMapping
-This library is available on NuGet: https://nuget.org/packages/UpnpStaticPortMapping
