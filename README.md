@@ -9,7 +9,7 @@ It can be applied to a WCF service in two ways:
 ##In Code
 By annotating the WCF service with the behavior, the behavior will be added into the WCF pipeline:
 
-```
+```csharp
 [UpnpStaticPortMappingBehavior]
 public class YourService : IYourService
 {
@@ -20,7 +20,7 @@ public class YourService : IYourService
 ##In Configuration
 If you prefer configuration based config of WCF:
 
-```
+```xml
 <system.serviceModel>
   <!-- Register the upnpPortMapping extension -->
   <extensions>
