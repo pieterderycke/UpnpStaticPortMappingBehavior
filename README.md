@@ -1,4 +1,4 @@
-#UpnpStaticPortMappingBehavior for WCF
+#UPNP static port mapping for WCF
 
 This is a WCF service behavior that allows to map an incomming port on the router to the port used by the WCF service. It can be used by any WCF services hosted behind a NAT router supporting UPNP.
 
