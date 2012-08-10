@@ -10,7 +10,7 @@ using System.ServiceModel.Description;
 using System.Web;
 using NATUPNPLib;
 
-namespace UpnpStaticPortMappingBehavior
+namespace UpnpStaticPortMapping
 {
     /// <summary>
     /// A WCF service behavior that allows to map an incomming port on the router to the port used by the WCF service.

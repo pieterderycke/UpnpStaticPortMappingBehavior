@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpnpStaticPortMappingBehavior", "UpnpStaticPortMappingBehavior\UpnpStaticPortMappingBehavior.csproj", "{FBB97A7B-4780-4DB3-843E-DC0C5EDB9156}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpnpStaticPortMapping", "UpnpStaticPortMapping\UpnpStaticPortMapping.csproj", "{FBB97A7B-4780-4DB3-843E-DC0C5EDB9156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

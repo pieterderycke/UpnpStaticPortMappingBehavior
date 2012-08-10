@@ -45,3 +45,7 @@ If you prefer configuration based config of WCF:
 
 ##Remarks
 Don't forget to configure the Windows firewall or any other firewall installed on your computer to allow the incomming traffic.
+
+##NuGet
+This library is available on NuGet: https://nuget.org/packages/UpnpStaticPortMapping
+This library is available on NuGet: https://nuget.org/packages/UpnpStaticPortMapping

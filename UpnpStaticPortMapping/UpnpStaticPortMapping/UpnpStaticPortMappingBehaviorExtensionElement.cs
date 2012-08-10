@@ -4,7 +4,7 @@ using System.Linq;
 using System.ServiceModel.Configuration;
 using System.Web;
 
-namespace UpnpStaticPortMappingBehavior
+namespace UpnpStaticPortMapping
 {
     /// <summary>
     /// The WCF <see cref="BehaviorExtensionElement"/> to apply the <see cref="UpnpStaticPortMappingBehavior"/>

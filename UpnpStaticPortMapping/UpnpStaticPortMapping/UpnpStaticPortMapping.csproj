@@ -8,8 +8,8 @@
     <ProjectGuid>{FBB97A7B-4780-4DB3-843E-DC0C5EDB9156}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UpnpStaticPortMappingBehavior</RootNamespace>
-    <AssemblyName>UpnpStaticPortMappingBehavior</AssemblyName>
+    <RootNamespace>UpnpStaticPortMapping</RootNamespace>
+    <AssemblyName>UpnpStaticPortMapping</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
